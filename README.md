@@ -17,7 +17,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/soulvoid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="soulvoid" /></a></p><br><br>
-
+<p>
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soulwastaken1&show_icons=true&theme=dark&locale=en" alt="soulwastaken1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soulwastaken1&" alt="soulwastaken1" /></p>
