@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **dhruboali203@gmail.com**
 
+- 💬 Idiot admires complexity, Genius admires simplicity
+
 - ⚡ Fun fact **I like anime**
 
 <h3 align="left">Connect with me:</h3>
